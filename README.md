@@ -1,4 +1,4 @@
-# Creating VMs in Azure
+# Creating Vnets in Azure
 
 **There are 3 objectives with this lab:**
 * Create a Virtual Network
